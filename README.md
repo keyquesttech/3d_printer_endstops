@@ -1,3 +1,4 @@
+
 <div align="center">
   <strong><h1>3D Printer Endstops</h1></strong>
 </div>
@@ -5,12 +6,6 @@
 <div align="center">
   A collection of custom-made endstop/limit switches for 3D printers or CNC machines.
   These are drop-in replacements for the endstops in the Ratrig Vcore-3.1, however they may fit other printers.
-</div>
-
-<hr>
-
-<div align="center">
-If you're looking for other Ratrig mods check this nozzle brush: [LINK](https://github.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush)
 </div>
 
 <hr>

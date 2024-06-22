@@ -54,3 +54,11 @@ A custom endstop for those looking to add some customization to their machine. T
 - Can add 3mm through-hole LED.
 
 The downside of this design is that since cherry MX switches only have two terminals if ground fails the switch won't trigger, however an integrated LED will indicate any faults. This LED is separate from that of the trigger LED; the trigger LED is through-hole and goes in the switch.
+
+<hr>
+
+<div align="center">
+  <strong><h1>Other mods</h1></strong>
+</div>
+
+- [Ratrig servo nozzle brush](https://github.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush)

@@ -58,14 +58,6 @@ The downside of this design is that since cherry MX switches only have two termi
 <hr>
 
 <div align="center">
-  <strong><h1>Other mods</h1></strong>
-</div>
-
-- [Ratrig servo nozzle brush](https://github.com/keyquesttech/Ratrig-Vcore-3-3.1-servo-nozzle-brush)
-
-<hr>
-
-<div align="center">
   <strong><h1>Other projects from the autor (me)</h1></strong>
 </div>
 
